@@ -1,0 +1,13 @@
+
+.sales-layout {
+    .inner-siderbar {
+        position: fixed;
+        width: 200px;
+        padding: 15px 10px 10px 10px;
+        height: calc(100vh - 50px);
+        border-right: 1px solid rgb(184, 184, 184);
+    }
+    .inner-container {
+        margin-left: 225px;
+    }
+}
